@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/CianRogers/LeafLab/blob/main
 cd YOUR_REPOSITORY_NAME
 Install the required packages:
 
