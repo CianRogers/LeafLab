@@ -1,7 +1,7 @@
 # LeafLab
 
 # Plant Disease Recognition System
-Overview
+
 Welcome to the Plant Disease Recognition System! 🌿🔎
 
 This app is designed to help users identify plant diseases from images of plant leaves using a pre-trained TensorFlow model. Simply upload an image, and the app will process it to predict the type of disease affecting the plant.
@@ -16,28 +16,15 @@ Sidebar Navigation: Switch between different pages using the sidebar.
 Image Upload and Display: Upload an image and see it displayed within the app.
 Prediction and Results: The app processes the image to identify the disease and shows the result with a detailed description.
 
-# Getting Started
-Prerequisites
-Python 3.7+
-Streamlit
-TensorFlow
-NumPy
-Pillow
-Requests
-Installation
-Clone the repository:
+# Getting Started:
 
-bash
-Copy code
+## 1) clone the repository
 git clone https://github.com/CianRogers/LeafLab
-cd YOUR_REPOSITORY_NAME
-Install the required packages:
+cd CianRogers/LeafLab
 
-bash
-Copy code
+## 2) Install the requirments included in the requirements.txt file
 pip install -r requirements.txt
-Run the Streamlit app:
 
-bash
-Copy code
+
+## 3) Run the app using streamlit 
 streamlit run app.py
