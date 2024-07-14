@@ -22,7 +22,7 @@ Prediction and Results: The app processes the image to identify the disease and 
 git clone https://github.com/CianRogers/LeafLab
 cd CianRogers/LeafLab
 
-## 2) Install the requirments included in the requirements.txt file
+## 2) Install the requirments
 pip install -r requirements.txt
 
 
