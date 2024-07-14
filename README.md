@@ -2,7 +2,7 @@
 
 # Plant Disease Recognition System
 
-Welcome to the Plant Disease Recognition System! 🌿🔎
+Welcome to the LeafLab Plant Disease Recognition System! 🌿🔎
 
 This app is designed to help users identify plant diseases from images of plant leaves using a pre-trained TensorFlow model. Simply upload an image, and the app will process it to predict the type of disease affecting the plant.
 
